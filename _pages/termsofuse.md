@@ -10,7 +10,7 @@ include_in_header: true
 
 Last updated: December 15, 2025
 
-Welcome to Mods For Melon Playground (the “App”) and any associated website or services (collectively, the “Service”). These Terms of Use (“Terms”) govern your access to and use of the Service. By accessing or using the Service you agree to be bound by these Terms. If you do not agree, do not use the Service.
+Welcome to Mods For Fruit Playground (the “App”) and any associated website or services (collectively, the “Service”). These Terms of Use (“Terms”) govern your access to and use of the Service. By accessing or using the Service you agree to be bound by these Terms. If you do not agree, do not use the Service.
 
 ## 1. Who may use the Service
 
